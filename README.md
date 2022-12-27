@@ -6,8 +6,8 @@
 - Checkout my personal portfolio: https://mikko-delosreyes.netlify.app  
 
 Find me on:
-CodeWars --> https://www.codewars.com/users/ofthekings12
-FreCodeCamp -->https://www.freecodecamp.org/ofthekings12
+- CodeWars --> https://www.codewars.com/users/ofthekings12
+- FreeCodeCamp -->https://www.freecodecamp.org/ofthekings12
 
 
 <!---
